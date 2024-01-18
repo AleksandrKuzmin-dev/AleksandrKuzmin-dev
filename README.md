@@ -1,4 +1,4 @@
-<img src="code.gif" alt="image" style="width:450px;height:auto;">
+<img src="code-new.gif" alt="image" style="width:450px;height:auto;">
 
 ![](https://komarev.com/ghpvc/?username=AleksandrKuzmin-dev&color=blue&base=33&style=for-the-badge&label=Просмотров_Профиля)
 
