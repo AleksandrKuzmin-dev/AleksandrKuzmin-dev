@@ -1,16 +1,25 @@
-### Hi there 👋
+![Изображение](code.gif "Изображение сайта")
 
-<!--
-**AleksandrKuzmin-dev/AleksandrKuzmin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=AleksandrKuzmin-dev&color=blue&base=33&style=for-the-badge&label=Просмотров_Профиля)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Привет!
+
+Меня зовут Александр, я frontend-разработчик с горящими глазами и любовью к программированию. Стараюсь еждневно обучаться и улучшать своими навыки.
+
+Здесь вы найдете мои проекты, которые демонстрируют мои навыки и стиль разработки. Буду рад обратной связи и совместной работе!
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AleksandrKuzmin-dev&theme=icegray&locale=ru&card_width=850)](https://git.io/streak-stats)
+
+### 🛠 Технологический стек:
+* JavaScript (ES6+)
+* HTML, CSS, Flexbox, Grid
+* SCSS/SASS
+* Figma, Photoshop, Pixso
+* БЭМ, Git, Webpack, Gulp
+
+### 📫 Связь со мной:
+[![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/alexkuzmin_vk)
+[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/alexkuzmin_tg)
+
+[![codewars](https://www.codewars.com/users/AleksandrKuzmin/badges/small)](https://www.codewars.com/users/AleksandrKuzmin) 
